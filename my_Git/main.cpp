@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-
 int main(){
-
-	return 0;
+	cout<<"hello Im started";
+	int a,b;
+	cin >> a >> b;
+	cout << a+b;
+	return 2;
 }
